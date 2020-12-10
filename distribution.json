@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352363,
-                "MD5": "088c29940f951130ad47a2586b2469be",
+                "MD5": "1be81835db8c7aefaa09adf5c92c556e",
                 "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/repo/lib/net/minecraft/client/1.16.4-20201102.104115/client-1.16.4-20201102.104115-srg.jar"
               },
               "subModules": []
@@ -319,16 +319,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "net.optifine:optifine:1.16.4_HD_U_G5@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5246844,
-            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/forgemods/required/OptiFine_1.16.4_HD_U_G5_MOD.jar",
-            "MD5": "0f80a637cd35a016912b07fe9016f3c5"
-          }
         }
       ]
     }
