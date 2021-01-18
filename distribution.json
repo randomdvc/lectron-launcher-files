@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352363,
-                "MD5": "e11d3dfbf747d411755c92023b8fb1f7",
+                "MD5": "b75f5b5283fac02a98d6b2f07b33c059",
                 "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/repo/lib/net/minecraft/client/1.16.4-20201102.104115/client-1.16.4-20201102.104115-srg.jar"
               },
               "subModules": []
@@ -341,13 +341,23 @@
           ]
         },
         {
-          "id": "generated.forgemod:sodium:fabric-mc1.16.3-0.1.0@jar",
-          "name": "Sodium",
-          "type": "ForgeMod",
+          "id": "generated.library:OptiFine:1.16.5_HD_U_G6@jar",
+          "name": "OptiFine",
+          "type": "Library",
           "artifact": {
-            "size": 418984,
-            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/forgemods/required/sodium-fabric-mc1.16.3-0.1.0.jar",
-            "MD5": "12fe6974813ae5d514af57c3ac679966"
+            "size": 5311141,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/libraries/OptiFine-1.16.5_HD_U_G6.jar",
+            "MD5": "64b61f8acf156951f92483fe25fb0826"
+          }
+        },
+        {
+          "id": "generated.library:launchwrapper:of-2.2@jar",
+          "name": "launchwrapper",
+          "type": "Library",
+          "artifact": {
+            "size": 15900,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/libraries/launchwrapper-of-2.2.jar",
+            "MD5": "3b1ace749885406d51ebe762cf9adfed"
           }
         }
       ]
