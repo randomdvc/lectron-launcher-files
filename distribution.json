@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352363,
-                "MD5": "f007f50dc0c563e45167835c5ebb9a04",
+                "MD5": "e11d3dfbf747d411755c92023b8fb1f7",
                 "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/repo/lib/net/minecraft/client/1.16.4-20201102.104115/client-1.16.4-20201102.104115-srg.jar"
               },
               "subModules": []
@@ -341,13 +341,13 @@
           ]
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G6@jar",
-          "name": "OptiFine",
+          "id": "generated.forgemod:sodium:fabric-mc1.16.3-0.1.0@jar",
+          "name": "Sodium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5311141,
-            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/forgemods/required/OptiFine_1.16.5_HD_U_G6_MOD.jar",
-            "MD5": "efc2b3df3f37f516cb251ec637d0ae78"
+            "size": 418984,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/forgemods/required/sodium-fabric-mc1.16.3-0.1.0.jar",
+            "MD5": "12fe6974813ae5d514af57c3ac679966"
           }
         }
       ]
