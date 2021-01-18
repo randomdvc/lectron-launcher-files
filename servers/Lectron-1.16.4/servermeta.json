@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///C:/lectron/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Lectron (Minecraft 1.16.4)",
+    "description": "Lectron Running Minecraft 1.16.4",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
