@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "Lectron (Minecraft 1.16.4)",
-    "description": "Lectron Running Minecraft 1.16.4",
+    "description": "Lectron Running Minecraft 1.16.4 (Forge v35.1.37)",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,6 +12,9 @@
     },
     "mainServer": false,
     "autoconnect": false
+  },
+  "forge": {
+    "version": "35.1.37"
   },
   "untrackedFiles": []
 }
