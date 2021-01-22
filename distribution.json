@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "Lectron-1.16.4",
-      "name": "Lectron",
-      "description": "Online Virtual Community",
+      "name": "Lectron (Minecraft 1.16.4)",
+      "description": "Lectron Running Minecraft 1.16.4 (Forge v35.1.37)",
       "icon": null,
       "version": "1.0.0",
-      "address": "mc.lectron.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.16.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.4-35.1.37",
@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352363,
-                "MD5": "57bebc06e69a5a6177b77b1a36182f72",
+                "MD5": "c8b23876631474981954043c30d3e3ce",
                 "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/repo/lib/net/minecraft/client/1.16.4-20201102.104115/client-1.16.4-20201102.104115-srg.jar"
               },
               "subModules": []
@@ -372,6 +372,28 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3091,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/options.txt",
+            "MD5": "5fd21d97e2dc2e04f24aa51b7af9ceb2",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1413,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/optionsof.txt",
+            "MD5": "5a5915930f5358cdd576c35263ed04bf",
+            "path": "optionsof.txt"
+          }
+        },
+        {
           "id": "fatti-pack-1-0-e3340.zip",
           "name": "fatti-pack-1-0-e3340.zip",
           "type": "File",
@@ -380,6 +402,17 @@
             "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/resourcepacks/fatti-pack-1-0-e3340.zip",
             "MD5": "d6a0a9014a8124e111410ea1f2c37e45",
             "path": "resourcepacks/fatti-pack-1-0-e3340.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 4822,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/servers.dat",
+            "MD5": "02ee4a06b106e58626d0c60dcb87c84d",
+            "path": "servers.dat"
           }
         }
       ]
