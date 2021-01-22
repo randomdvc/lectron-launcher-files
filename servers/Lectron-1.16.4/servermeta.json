@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/lectron/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/lectron1/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Lectron (Minecraft 1.16.4)",

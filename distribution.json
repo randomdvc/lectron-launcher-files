@@ -13,15 +13,15 @@
       "description": "Lectron Running Minecraft 1.16.4 (Forge v35.1.37)",
       "icon": null,
       "version": "1.0.0",
-      "address": "mc.lectron.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.16.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.4-35.1.37",
@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352363,
-                "MD5": "b75f5b5283fac02a98d6b2f07b33c059",
+                "MD5": "57bebc06e69a5a6177b77b1a36182f72",
                 "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/repo/lib/net/minecraft/client/1.16.4-20201102.104115/client-1.16.4-20201102.104115-srg.jar"
               },
               "subModules": []
@@ -358,6 +358,28 @@
             "size": 15900,
             "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/libraries/launchwrapper-of-2.2.jar",
             "MD5": "3b1ace749885406d51ebe762cf9adfed"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1336,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/config/forge-client.toml",
+            "MD5": "970ab41c29c9fa6c42e39cb00a5355be",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "fatti-pack-1-0-e3340.zip",
+          "name": "fatti-pack-1-0-e3340.zip",
+          "type": "File",
+          "artifact": {
+            "size": 128544,
+            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/resourcepacks/fatti-pack-1-0-e3340.zip",
+            "MD5": "d6a0a9014a8124e111410ea1f2c37e45",
+            "path": "resourcepacks/fatti-pack-1-0-e3340.zip"
           }
         }
       ]
