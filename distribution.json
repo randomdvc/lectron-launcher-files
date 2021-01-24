@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352363,
-                "MD5": "c8b23876631474981954043c30d3e3ce",
+                "MD5": "93ae83b5ff80b620c7b3ade9b973c356",
                 "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/repo/lib/net/minecraft/client/1.16.4-20201102.104115/client-1.16.4-20201102.104115-srg.jar"
               },
               "subModules": []
@@ -369,28 +369,6 @@
             "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/config/forge-client.toml",
             "MD5": "970ab41c29c9fa6c42e39cb00a5355be",
             "path": "config/forge-client.toml"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3091,
-            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/options.txt",
-            "MD5": "5fd21d97e2dc2e04f24aa51b7af9ceb2",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "optionsof.txt",
-          "name": "optionsof.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1413,
-            "url": "https://raw.githubusercontent.com/rldevelopement/lectron-launcher-files/master/servers/Lectron-1.16.4/files/optionsof.txt",
-            "MD5": "5a5915930f5358cdd576c35263ed04bf",
-            "path": "optionsof.txt"
           }
         },
         {
